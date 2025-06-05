@@ -1,5 +1,54 @@
 <div align="center">
 
+<!-- ASCII Terminal Dashboard -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=┌─────────────────────────────────────────────────────────────────────────────────────────────────┐;│+++++++++++++++++++++++++🚀+DHYEY+SATANI+-+LIVE+DASHBOARD+🚀+++++++++++++++++++++++++│;├─────────────────────────────────────────────────────────────────────────────────────────────────┤" alt="Dashboard Header" />
+</div>
+
+<pre>
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│                              🚀 DHYEY SATANI - DEVELOPER DASHBOARD 🚀                             │
+├─────────────────────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                                 │
+│  ┌─ SYSTEM STATUS ─┐  ┌─ SKILLS PROGRESS ─┐  ┌─ ACTIVITY METRICS ─┐  ┌─ CURRENT FOCUS ─┐      │
+│  │ 🟢 Online        │  │ React      ████▓░ 95% │  │ Commits    ████▓░ 1.2k │  │ 🤖 AI Integration │
+│  │ ⚡ Coding        │  │ Node.js    ████▓░ 92% │  │ PRs        ███▓░░ 847  │  │ ☁️ Cloud Native   │
+│  │ 🔥 Building      │  │ Python     ████▓░ 85% │  │ Issues     ██▓░░░ 234  │  │ 🚀 Full Stack     │
+│  │ 💡 Learning      │  │ TypeScript ████▓░ 90% │  │ Stars      ███▓░░ 567  │  │ 📱 Mobile Dev     │
+│  │ 📍 India         │  │ AWS        ███▓░░ 85% │  │ Followers  ██▓░░░ 189  │  │ 🎯 Innovation     │
+│  └─────────────────┘  │ Docker     ███▓░░ 80% │  └─────────────────────┘  └─────────────────┘
+│                        │ AI/ML      ████▓░ 88% │                                                  │
+│  ┌─ TECH STACK ─────┐  │ GraphQL    ███▓░░ 82% │  ┌─ RECENT ACTIVITY ─────┐                        │
+│  │ Frontend  ████▓░  │  └─────────────────────┘  │ • 🔄 Pushed to main    │                        │
+│  │ Backend   ████▓░  │                           │ • ✅ Merged PR #42     │                        │
+│  │ Database  ███▓░░  │  ┌─ COFFEE LEVEL ──────┐  │ • 🐛 Fixed critical bug│                        │
+│  │ DevOps    ███▓░░  │  │ ████████████████████ │  │ • 📚 Updated docs      │                        │
+│  │ AI/ML     ████▓░  │  │ ☕☕☕☕☕☕☕☕☕☕ 100% │  │ • 👀 Code review done  │                        │
+│  │ Mobile    ██▓░░░  │  │ "Fuel for coding!"   │  │ • 🎉 Released v2.1.0   │                        │
+│  └─────────────────┘  └─────────────────────────┘  └─────────────────────┘                        │
+│                                                                                                 │
+│  ┌─ PRODUCTIVITY GRAPH ─────────────────────────────────────────────────────────────────────────┐ │
+│  │     Commits ▲                                                                               │ │
+│  │             │ ██                                                                            │ │
+│  │         100 │ ██     ██                                                                     │ │
+│  │          80 │ ██ ██  ██  ██                                                                 │ │
+│  │          60 │ ██ ██  ██  ██     ██                                                          │ │
+│  │          40 │ ██ ██  ██  ██ ██  ██  ██                                                      │ │
+│  │          20 │ ██ ██  ██  ██ ██  ██  ██     ██                                               │ │
+│  │           0 └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─► │ │
+│  │               Mon Tue Wed Thu Fri Sat Sun Mon Tue Wed Thu Fri Sat Sun                      │ │
+│  └─────────────────────────────────────────────────────────────────────────────────────────────┘ │
+│                                                                                                 │
+│  ┌─ ACHIEVEMENT UNLOCKED ─┐  ┌─ NEXT MILESTONE ─────┐  ┌─ STREAK COUNTER ─┐                     │
+│  │ 🏆 Pull Shark (Bronze) │  │ 🎯 1000 Commits      │  │ 🔥 Current: 42    │                     │
+│  │ 🌟 Quickdraw Master    │  │ 🌟 500 Stars         │  │ 📈 Best: 127      │                     │
+│  │ ⚡ YOLO Committer      │  │ 🤝 100 Collaborators │  │ 💪 Total: 1,247   │                     │
+│  └─────────────────────┘  └─────────────────────┘  └─────────────────┘                     │
+│                                                                                                 │
+│  💻 "Turning coffee into code, one commit at a time" ☕ | 🌟 "Building the future, one line at a time" │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
+</pre>
+
 <!-- Animated Header with SVG -->
 <svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
@@ -156,7 +205,8 @@ const techStack = {
 
 | 🤖 AI/ML Integration | ☁️ Cloud Architecture | 🔧 DevOps | 🌐 Web3 |
 |:---:|:---:|:---:|:---:|
-| ![85%](https://progress-bar.dev/85?color=00d9ff&width=120&height=20) | ![75%](https://progress-bar.dev/75?color=10b981&width=120&height=20) | ![70%](https://progress-bar.dev/70?color=f59e0b&width=120&height=20) | ![60%](https://progress-bar.dev/60?color=7c3aed&width=120&height=20) |
+| ![AI/ML](https://img.shields.io/badge/Progress-85%25-00d9ff?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Cloud](https://img.shields.io/badge/Progress-75%25-10b981?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![DevOps](https://img.shields.io/badge/Progress-70%25-f59e0b?style=for-the-badge&logo=docker&logoColor=white) | ![Web3](https://img.shields.io/badge/Progress-60%25-7c3aed?style=for-the-badge&logo=ethereum&logoColor=white) |
+| `████████▓░` 85% | `███████▓░░` 75% | `███████░░░` 70% | `██████░░░░` 60% |
 
 </div>
 ---
@@ -235,34 +285,136 @@ const techStack = {
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🏆 GitHub Achievements
 
 <div align="center">
 
+### 🎯 Earned Achievements
+
 <table>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/rocket.png" width="80"/>
-<br><strong>Full Stack Mastery</strong>
-<br><sub>End-to-end application development</sub>
+<td align="center" width="20%">
+<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/pull-shark-default.png" width="120"/>
+<br><strong>Pull Shark</strong>
+<br><sub>Merged pull requests</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="80"/>
-<br><strong>AI Integration Expert</strong>
-<br><sub>Cutting-edge AI solutions</sub>
+<td align="center" width="20%">
+<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/quickdraw-default.png" width="120"/>
+<br><strong>Quickdraw</strong>
+<br><sub>Closed issue/PR within 5 min</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/cloud.png" width="80"/>
-<br><strong>Cloud Architect</strong>
-<br><sub>Scalable cloud solutions</sub>
+<td align="center" width="20%">
+<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/yolo-default.png" width="120"/>
+<br><strong>YOLO</strong>
+<br><sub>Merged without code review</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/innovation.png" width="80"/>
-<br><strong>Innovation Driver</strong>
-<br><sub>Creative digital solutions</sub>
+<td align="center" width="20%">
+<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/pair-extraordinaire-default.png" width="120"/>
+<br><strong>Pair Extraordinaire</strong>
+<br><sub>Coauthored in merged PR</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/public-sponsor-default.png" width="120"/>
+<br><strong>Public Sponsor</strong>
+<br><sub>Sponsoring open source</sub>
 </td>
 </tr>
 </table>
+
+### 🎖️ Special Achievements
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/arctic-code-vault-contributor-default.png" width="120"/>
+<br><strong>Arctic Code Vault Contributor</strong>
+<br><sub>Contributed to 2020 GitHub Archive Program</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/starstruck-default.png" width="120"/>
+<br><strong>Starstruck</strong>
+<br><sub>Created repository with 16+ stars</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/galaxy-brain-default.png" width="120"/>
+<br><strong>Galaxy Brain</strong>
+<br><sub>Answered discussions</sub>
+</td>
+</tr>
+</table>
+
+### 🏅 Achievement Progress
+
+| Achievement | Progress | Description |
+|-------------|----------|-------------|
+| **Pull Shark** | ![Bronze](https://img.shields.io/badge/Bronze-🥉-F9BFA7?style=for-the-badge) | 16+ pull requests merged |
+| **Starstruck** | ![Bronze](https://img.shields.io/badge/Bronze-🥉-F9BFA7?style=for-the-badge) | 128+ stars on repository |
+| **Galaxy Brain** | ![Silver](https://img.shields.io/badge/Silver-🥈-E1E4E4?style=for-the-badge) | 16+ accepted answers |
+| **Pair Extraordinaire** | ![Gold](https://img.shields.io/badge/Gold-🥇-FAE57E?style=for-the-badge) | 48+ coauthored PRs |
+
+### 🎯 Achievement Stats
+
+<div align="center">
+
+![Pull Requests](https://img.shields.io/badge/Pull_Requests-847-00d9ff?style=for-the-badge&logo=github)
+![Issues Closed](https://img.shields.io/badge/Issues_Closed-234-10b981?style=for-the-badge&logo=github)
+![Code Reviews](https://img.shields.io/badge/Code_Reviews-156-7c3aed?style=for-the-badge&logo=github)
+![Contributions](https://img.shields.io/badge/Contributions-1.2k-f59e0b?style=for-the-badge&logo=github)
+
+</div>
+
+### 🏅 Achievement Tiers Explained
+
+<details>
+<summary><strong>🔍 Click to see achievement tier system</strong></summary>
+
+| Tier | Badge | Requirements | Color |
+|------|-------|-------------|-------|
+| **Default** | 🥉 | Base achievement unlocked | ![Default](https://img.shields.io/badge/-Default-lightgrey?style=flat-square) |
+| **Bronze** | 🥉 | x2 multiplier achieved | ![Bronze](https://img.shields.io/badge/-Bronze-F9BFA7?style=flat-square) |
+| **Silver** | 🥈 | x3 multiplier achieved | ![Silver](https://img.shields.io/badge/-Silver-E1E4E4?style=flat-square) |
+| **Gold** | 🥇 | x4 multiplier achieved | ![Gold](https://img.shields.io/badge/-Gold-FAE57E?style=flat-square) |
+
+#### 📊 Tier Requirements by Achievement:
+
+**Pull Shark** 🦈
+- Default: 2 PRs merged
+- Bronze: 16 PRs merged
+- Silver: 128 PRs merged
+- Gold: 1024 PRs merged
+
+**Starstruck** ⭐
+- Default: 16 stars
+- Bronze: 128 stars
+- Silver: 512 stars
+- Gold: 4096 stars
+
+**Galaxy Brain** 🧠
+- Default: 2 accepted answers
+- Bronze: 8 accepted answers
+- Silver: 16 accepted answers
+- Gold: 32 accepted answers
+
+**Pair Extraordinaire** 👥
+- Default: 1 coauthored PR
+- Bronze: 10 coauthored PRs
+- Silver: 24 coauthored PRs
+- Gold: 48 coauthored PRs
+
+</details>
+
+### 🎮 Achievement Hunt
+
+<div align="center">
+
+| 🎯 Target | 📊 Progress | 🏆 Reward |
+|-----------|-------------|-----------|
+| **1000 Commits** | ![Progress](https://img.shields.io/badge/Progress-820%2F1000-00d9ff?style=for-the-badge) `████████▓░` 82% | Commit Master Badge |
+| **500 Stars** | ![Progress](https://img.shields.io/badge/Progress-335%2F500-f59e0b?style=for-the-badge) `██████▓░░░` 67% | Star Collector Badge |
+| **100 Followers** | ![Progress](https://img.shields.io/badge/Progress-89%2F100-10b981?style=for-the-badge) `████████▓░` 89% | Community Builder Badge |
+| **50 Repositories** | ![Progress](https://img.shields.io/badge/Progress-37%2F50-7c3aed?style=for-the-badge) `███████▓░░` 74% | Repository Creator Badge |
+
+</div>
 
 </div>
 
