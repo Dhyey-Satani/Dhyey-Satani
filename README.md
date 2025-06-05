@@ -1,53 +1,5 @@
 <div align="center">
 
-<!-- ASCII Terminal Dashboard -->
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=┌─────────────────────────────────────────────────────────────────────────────────────────────────┐;│+++++++++++++++++++++++++🚀+DHYEY+SATANI+-+LIVE+DASHBOARD+🚀+++++++++++++++++++++++++│;├─────────────────────────────────────────────────────────────────────────────────────────────────┤" alt="Dashboard Header" />
-</div>
-
-<pre>
-┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                              🚀 DHYEY SATANI - DEVELOPER DASHBOARD 🚀                             │
-├─────────────────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                                 │
-│  ┌─ SYSTEM STATUS ─┐  ┌─ SKILLS PROGRESS ─┐  ┌─ ACTIVITY METRICS ─┐  ┌─ CURRENT FOCUS ─┐      │
-│  │ 🟢 Online        │  │ React      ████▓░ 95% │  │ Commits    ████▓░ 1.2k │  │ 🤖 AI Integration │
-│  │ ⚡ Coding        │  │ Node.js    ████▓░ 92% │  │ PRs        ███▓░░ 847  │  │ ☁️ Cloud Native   │
-│  │ 🔥 Building      │  │ Python     ████▓░ 85% │  │ Issues     ██▓░░░ 234  │  │ 🚀 Full Stack     │
-│  │ 💡 Learning      │  │ TypeScript ████▓░ 90% │  │ Stars      ███▓░░ 567  │  │ 📱 Mobile Dev     │
-│  │ 📍 India         │  │ AWS        ███▓░░ 85% │  │ Followers  ██▓░░░ 189  │  │ 🎯 Innovation     │
-│  └─────────────────┘  │ Docker     ███▓░░ 80% │  └─────────────────────┘  └─────────────────┘
-│                        │ AI/ML      ████▓░ 88% │                                                  │
-│  ┌─ TECH STACK ─────┐  │ GraphQL    ███▓░░ 82% │  ┌─ RECENT ACTIVITY ─────┐                        │
-│  │ Frontend  ████▓░  │  └─────────────────────┘  │ • 🔄 Pushed to main    │                        │
-│  │ Backend   ████▓░  │                           │ • ✅ Merged PR #42     │                        │
-│  │ Database  ███▓░░  │  ┌─ COFFEE LEVEL ──────┐  │ • 🐛 Fixed critical bug│                        │
-│  │ DevOps    ███▓░░  │  │ ████████████████████ │  │ • 📚 Updated docs      │                        │
-│  │ AI/ML     ████▓░  │  │ ☕☕☕☕☕☕☕☕☕☕ 100% │  │ • 👀 Code review done  │                        │
-│  │ Mobile    ██▓░░░  │  │ "Fuel for coding!"   │  │ • 🎉 Released v2.1.0   │                        │
-│  └─────────────────┘  └─────────────────────────┘  └─────────────────────┘                        │
-│                                                                                                 │
-│  ┌─ PRODUCTIVITY GRAPH ─────────────────────────────────────────────────────────────────────────┐ │
-│  │     Commits ▲                                                                               │ │
-│  │             │ ██                                                                            │ │
-│  │         100 │ ██     ██                                                                     │ │
-│  │          80 │ ██ ██  ██  ██                                                                 │ │
-│  │          60 │ ██ ██  ██  ██     ██                                                          │ │
-│  │          40 │ ██ ██  ██  ██ ██  ██  ██                                                      │ │
-│  │          20 │ ██ ██  ██  ██ ██  ██  ██     ██                                               │ │
-│  │           0 └─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─┴─► │ │
-│  │               Mon Tue Wed Thu Fri Sat Sun Mon Tue Wed Thu Fri Sat Sun                      │ │
-│  └─────────────────────────────────────────────────────────────────────────────────────────────┘ │
-│                                                                                                 │
-│  ┌─ ACHIEVEMENT UNLOCKED ─┐  ┌─ NEXT MILESTONE ─────┐  ┌─ STREAK COUNTER ─┐                     │
-│  │ 🏆 Pull Shark (Bronze) │  │ 🎯 1000 Commits      │  │ 🔥 Current: 42    │                     │
-│  │ 🌟 Quickdraw Master    │  │ 🌟 500 Stars         │  │ 📈 Best: 127      │                     │
-│  │ ⚡ YOLO Committer      │  │ 🤝 100 Collaborators │  │ 💪 Total: 1,247   │                     │
-│  └─────────────────────┘  └─────────────────────┘  └─────────────────┘                     │
-│                                                                                                 │
-│  💻 "Turning coffee into code, one commit at a time" ☕ | 🌟 "Building the future, one line at a time" │
-└─────────────────────────────────────────────────────────────────────────────────────────────────┘
-</pre>
 
 <!-- Animated Header with SVG -->
 <svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
