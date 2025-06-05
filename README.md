@@ -37,22 +37,6 @@ const dhyey = {
     funFact: "I turn coffee into code and ideas into reality! ☕→💻",
     motto: "Code with purpose, build with passion! 🚀"
 };
-graph TD
-    A[🚀 Current Projects] --> B[DropMaster AI Platform]
-    A --> C[Full Stack Web Apps]
-    A --> D[AI Integration Solutions]
-    A --> E[Open Source Contributions]
-    
-    B --> F[React + FastAPI + AI]
-    C --> G[Next.js + Node.js + TypeScript]
-    D --> H[OpenAI + Python + ML]
-    E --> I[Community Projects]
-    
-    style A fill:#00D9FF,stroke:#FFFFFF,color:#000000
-    style B fill:#FF6B6B,stroke:#FFFFFF,color:#FFFFFF
-    style C fill:#4ECDC4,stroke:#FFFFFF,color:#FFFFFF
-    style D fill:#45B7D1,stroke:#FFFFFF,color:#FFFFFF
-    style E fill:#96CEB4,stroke:#FFFFFF,color:#FFFFFF
 JavaScript   12 hrs 30 mins  ████████████░░░░░░░░░░░░░   45.2%
 Python       8 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   29.8%
 TypeScript   4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.7%
